@@ -1,0 +1,3 @@
+class ApiConstance{
+ String token = '';
+}
